@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anantha Krishnan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="center"alt="coding"width="400"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvS8AvVdiqc6rXXptg7tflR7QopBkk4fniUw&s">
+<img align="center"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananthakrishnan-1234&label=Profile%20views&color=0e75b6&style=flat" alt="ananthakrishnan-1234" /> </p>
 
 <p align="left" style="margin-w=15&margin-h=15;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ananthakrishnan-1234" alt="ananthakrishnan-1234" /></a> </p>
